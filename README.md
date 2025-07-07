@@ -1,4 +1,4 @@
-# Assignment 4 – Admin Dashboard
+# Admin Dashboard
 
 A fully responsive and interactive **React Admin Dashboard App** with support for:
 
@@ -27,8 +27,7 @@ A fully responsive and interactive **React Admin Dashboard App** with support fo
 ## 🚀 How to Clone and Run
 
 ```bash
-git clone https://github.com/gokulraktate/CSI_ASSIGNMENTS.git
-cd assignment_4
+git clone https://github.com/gokulraktate/Dashboard-.git
 npm install
 npm start
 ```
